@@ -241,3 +241,16 @@
 [02:48:03] [Netty Epoll Server IO #0/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
 [02:48:03] [Netty Epoll Server IO #0/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
 [02:48:03] [Netty Epoll Server IO #0/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:12:15] [Server thread/INFO]: inser lost connection: Disconnected
+[03:12:15] [Server thread/INFO]: inser left the game
+[03:12:21] [Server thread/INFO]: Stopping the server
+[03:12:21] [Server thread/INFO]: Stopping server
+[03:12:21] [Server thread/INFO]: Saving players
+[03:12:21] [Server thread/INFO]: Saving worlds
+[03:12:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:12:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:12:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
