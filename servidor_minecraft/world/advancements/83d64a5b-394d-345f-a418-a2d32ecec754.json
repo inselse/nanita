@@ -4032,5 +4032,11 @@
     },
     "done": true
   },
+  "versecraft:recipes/decorations/oak_mosaic": {
+    "criteria": {
+      "has_oak_slab": "2024-12-10 02:47:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
