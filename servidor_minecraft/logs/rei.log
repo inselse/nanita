@@ -620,3 +620,5 @@ java.lang.Throwable
 [19:58:42] [Server thread/DEBUG] [REI] Updating players with new displays version 14D3E84200000001 [from 14D3E84200000000]
 [19:58:50] [Server thread/DEBUG] [REI] Player inser has outdated displays version 0 [latest version: 14D3E84200000001]
 [19:58:50] [Server thread/DEBUG] [REI] Player inser has outdated displays version 0 [latest version: 14D3E84200000001], sending reset packet request.
+[22:11:28] [Server thread/DEBUG] [REI] Player Miau0110 has outdated displays version 0 [latest version: 14D3E84200000001]
+[22:11:28] [Server thread/DEBUG] [REI] Player Miau0110 has outdated displays version 0 [latest version: 14D3E84200000001], sending reset packet request.
