@@ -425,6 +425,7 @@
       "bread": "2024-12-08 06:39:19 +0000",
       "golden_apple": "2024-12-08 21:51:35 +0000",
       "cooked_chicken": "2024-12-07 05:40:53 +0000",
+      "honey_bottle": "2024-12-12 21:50:29 +0000",
       "rotten_flesh": "2024-12-09 21:16:05 +0000",
       "cooked_mutton": "2024-12-07 05:33:59 +0000",
       "melon_slice": "2024-12-07 06:37:06 +0000",
@@ -435,17 +436,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2024-12-08 06:24:15 +0000",
       "minecraft:skeleton": "2024-12-07 05:34:17 +0000",
       "minecraft:phantom": "2024-12-08 18:13:21 +0000",
-      "minecraft:enderman": "2024-12-08 08:39:08 +0000",
       "minecraft:witch": "2024-12-08 07:06:42 +0000",
+      "minecraft:bogged": "2024-12-08 21:36:55 +0000",
+      "minecraft:cave_spider": "2024-12-08 06:24:15 +0000",
+      "minecraft:breeze": "2024-12-12 21:50:50 +0000",
+      "minecraft:enderman": "2024-12-08 08:39:08 +0000",
       "minecraft:spider": "2024-12-07 05:40:12 +0000",
       "minecraft:zombie": "2024-12-07 05:34:36 +0000",
       "minecraft:creeper": "2024-12-07 05:38:40 +0000",
       "minecraft:drowned": "2024-12-07 06:15:31 +0000",
       "minecraft:zombie_villager": "2024-12-07 06:16:22 +0000",
-      "minecraft:bogged": "2024-12-08 21:36:55 +0000",
       "minecraft:slime": "2024-12-08 21:30:31 +0000"
     },
     "done": false
@@ -4056,9 +4058,33 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "versecraft:recipes/decorations/andesite_brick_wall_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
     },
     "done": true
   },
@@ -4068,15 +4094,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-12-12 21:51:40 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/yellow_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "versecraft:recipes/building_blocks/andesite_brick_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000"
     },
     "done": true
   },
+  "waystones:recipes/decorations/yellow_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "versecraft:recipes/decorations/polished_andesite_wall": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/lime_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/white_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
     },
     "done": true
   },
@@ -4098,9 +4208,33 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/end_stone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
     },
     "done": true
   },
@@ -4110,9 +4244,33 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/purple_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_waystone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-12 20:37:06 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/cyan_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
     },
     "done": true
   },
@@ -4122,9 +4280,51 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/green_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/brown_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/red_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-12 20:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blue_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
     },
     "done": true
   },
@@ -4146,6 +4346,36 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/mossy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_blue_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/green_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/orange_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000"
@@ -4161,6 +4391,24 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-12 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blackstone_waystone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/pink_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
     },
     "done": true
   },
@@ -4182,9 +4430,33 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/pink_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
   "versecraft:recipes/decorations/dark_oak_mosaic": {
     "criteria": {
       "has_dark_oak_slab": "2024-12-12 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/sandy_waystone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/waystone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/light_gray_portstone": {
+    "criteria": {
+      "has_warp_stone": "2024-12-12 21:52:34 +0000"
     },
     "done": true
   },
