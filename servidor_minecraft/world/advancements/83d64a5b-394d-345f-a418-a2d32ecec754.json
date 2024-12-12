@@ -4110,6 +4110,12 @@
     },
     "done": true
   },
+  "versecraft:recipes/building_blocks/spruce_mosaic_stairs": {
+    "criteria": {
+      "has_spruce_mosaic": "2024-12-12 20:26:51 +0000"
+    },
+    "done": true
+  },
   "versecraft:recipes/decorations/polished_andesite_wall_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000"
@@ -4134,10 +4140,22 @@
     },
     "done": true
   },
+  "versecraft:recipes/decorations/dark_oak_mosaic": {
+    "criteria": {
+      "has_dark_oak_slab": "2024-12-12 20:27:47 +0000"
+    },
+    "done": true
+  },
   "versecraft:recipes/building_blocks/andesite_brick_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 20:14:12 +0000",
       "has_the_recipe": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/spruce_mosaic_slab": {
+    "criteria": {
+      "has_spruce_mosaic": "2024-12-12 20:26:51 +0000"
     },
     "done": true
   },
