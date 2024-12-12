@@ -438,6 +438,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-07 05:34:17 +0000",
       "minecraft:phantom": "2024-12-08 18:13:21 +0000",
+      "minecraft:zombified_piglin": "2024-12-12 23:32:24 +0000",
       "minecraft:witch": "2024-12-08 07:06:42 +0000",
       "minecraft:bogged": "2024-12-08 21:36:55 +0000",
       "minecraft:ghast": "2024-12-12 23:16:47 +0000",
@@ -4502,9 +4503,21 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-12 23:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-12 23:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 23:30:21 +0000"
     },
     "done": true
   },
@@ -4694,6 +4707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-12 23:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-12 23:14:23 +0000"
@@ -4739,6 +4758,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-12 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-12 23:37:12 +0000"
     },
     "done": true
   },
@@ -4808,6 +4833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-12 23:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-12 23:20:54 +0000"
@@ -4853,6 +4884,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-12 23:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-12 23:29:27 +0000"
     },
     "done": true
   },

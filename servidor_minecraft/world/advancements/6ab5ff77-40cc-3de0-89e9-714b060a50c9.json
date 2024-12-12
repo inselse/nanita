@@ -446,9 +446,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-07 05:40:44 +0000",
+      "minecraft:piglin": "2024-12-12 23:31:40 +0000",
       "minecraft:phantom": "2024-12-08 22:19:31 +0000",
       "minecraft:breeze": "2024-12-08 21:50:39 +0000",
       "minecraft:spider": "2024-12-07 05:40:45 +0000",
+      "minecraft:piglin_brute": "2024-12-12 23:31:53 +0000",
       "minecraft:zombie": "2024-12-07 06:17:02 +0000",
       "minecraft:drowned": "2024-12-08 22:20:17 +0000",
       "minecraft:bogged": "2024-12-08 21:44:31 +0000",
@@ -2922,6 +2924,12 @@
   "waystones:recipes/decorations/green_portstone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-12 23:30:07 +0000"
     },
     "done": true
   },
