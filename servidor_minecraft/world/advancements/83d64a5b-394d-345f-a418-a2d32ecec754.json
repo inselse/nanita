@@ -4038,5 +4038,108 @@
     },
     "done": true
   },
+  "versecraft:recipes/building_blocks/oak_mosaic_stairs": {
+    "criteria": {
+      "has_oak_mosaic": "2024-12-12 17:50:34 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/oak_mosaic_slab": {
+    "criteria": {
+      "has_oak_mosaic": "2024-12-12 17:50:34 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/decorations/andesite_brick_wall_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/andesite_brick_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/andesite_brick_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/decorations/polished_andesite_wall": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-12 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/chiseled_andesite_bricks_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-12 20:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/decorations/polished_andesite_wall_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/andesite_brick": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "versecraft:recipes/building_blocks/andesite_brick_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 20:14:12 +0000",
+      "has_the_recipe": "2024-12-12 20:14:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
