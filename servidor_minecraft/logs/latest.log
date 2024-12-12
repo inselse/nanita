@@ -600,3 +600,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:44:06] [Server thread/INFO]: [inser: Set own game mode to Creative Mode]
+[22:44:09] [Server thread/INFO]: [inser: Set own game mode to Survival Mode]
+[22:45:20] [Server thread/INFO]: [inser: Set own game mode to Creative Mode]
+[22:45:26] [Server thread/INFO]: [inser: Set own game mode to Survival Mode]
+[22:45:56] [Server thread/INFO]: No return portal found
+[22:45:59] [Server thread/INFO]: inser has made the advancement [We Need to Go Deeper]
+[22:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
+[22:46:05] [Server thread/INFO]: No return portal found
+[22:46:05] [Server thread/INFO]: Miau0110 has made the advancement [We Need to Go Deeper]
+[22:46:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[22:46:53] [Server thread/INFO]: [Not Secure] <inser> ya vengto
+[22:46:55] [Server thread/INFO]: inser lost connection: Disconnected
+[22:46:55] [Server thread/INFO]: inser left the game
