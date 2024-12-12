@@ -2539,6 +2539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/brown_portstone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
@@ -2566,6 +2572,12 @@
   "waystones:recipes/decorations/lime_sharestone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
     },
     "done": true
   },
@@ -2611,9 +2623,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
     },
     "done": true
   },
@@ -2755,6 +2779,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-12 22:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-12 22:44:38 +0000"
@@ -2809,6 +2845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/sandy_waystone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
@@ -2818,6 +2860,12 @@
   "waystones:recipes/decorations/waystone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2024-12-12 22:54:20 +0000"
     },
     "done": true
   },
