@@ -2511,7 +2511,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-12 22:46:06 +0000"
+      "minecraft:nether_wastes": "2024-12-12 22:46:06 +0000",
+      "minecraft:basalt_deltas": "2024-12-12 23:16:30 +0000",
+      "minecraft:warped_forest": "2024-12-12 23:14:18 +0000"
     },
     "done": false
   },
@@ -2860,6 +2862,12 @@
   "waystones:recipes/decorations/waystone": {
     "criteria": {
       "has_warp_stone": "2024-12-12 22:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-12 23:13:08 +0000"
     },
     "done": true
   },
