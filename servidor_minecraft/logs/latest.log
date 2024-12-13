@@ -821,3 +821,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [23:49:59] [Server thread/INFO]: [inser: Set own game mode to Survival Mode]
+[23:52:06] [Server thread/INFO]: [inser: Set own game mode to Creative Mode]
+[23:52:11] [Server thread/INFO]: [inser: Set own game mode to Survival Mode]
+[23:52:42] [Server thread/INFO]: inser has made the advancement [Local Brewery]
+[23:55:50] [Server thread/INFO]: [inser: Set own game mode to Creative Mode]
+[23:56:21] [Server thread/INFO]: [inser: Set own game mode to Survival Mode]
+[23:56:55] [Server thread/INFO]: inser lost connection: Disconnected
+[23:56:55] [Server thread/INFO]: inser left the game
+[23:58:24] [Server thread/INFO]: inser[/127.231.27.236:44779] logged in with entity id 44254 at (-832.1228572949847, 64.0, -4016.699999988079)
+[23:58:24] [Server thread/INFO]: inser joined the game
